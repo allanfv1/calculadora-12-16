@@ -1,7 +1,3 @@
-Aqui está o README para o código `calculadora.py`:
-
----
-
 # Calculadora de Jornada de Trabalho 12/36
 
 Este é um script Python que ajuda a calcular se uma pessoa estará **trabalhando** ou **de folga** em uma data específica, com base na jornada de trabalho alternada **12/36**. O código verifica se a pessoa trabalhou no dia atual e, com base nisso, calcula se ela estará de folga ou trabalhando em uma data informada pelo usuário.
@@ -57,11 +53,3 @@ Bom trabalho!
 ```bash
 python calculadora.py
 ```
-
-## Contribuições
-
-Sinta-se à vontade para melhorar o código ou sugerir novas funcionalidades. Se encontrar algum erro ou tiver sugestões, fique à vontade para abrir uma issue ou enviar um pull request.
-
----
-
-Esse README fornece uma visão geral do funcionamento do código. Caso precise de mais informações ou ajustes, só avisar!
